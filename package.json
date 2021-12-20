@@ -1,0 +1,24 @@
+{
+  "name": "Conversor-Planilha-PDF-Node",
+  "version": "1.0.0",
+  "description": "Conversor de planilhas csv para PDF utilizando NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioacarvalho/Conversor-Planilha-PDF-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabioacarvalho/Conversor-Planilha-PDF-Node/issues"
+  },
+  "homepage": "https://github.com/fabioacarvalho/Conversor-Planilha-PDF-Node#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^3.0.1"
+  }
+}
